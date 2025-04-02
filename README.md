@@ -2,7 +2,7 @@
 
 A modern, responsive UI for a skip rental service built with React, TypeScript, and TailwindCSS featuring a sleek dark theme design.
 
-![WeWantWaste UI Screenshot](https://github.com/Ambitious905837/WeWantWaste-challenge/src/assets/Screenshot_173.png?text=WeWantWaste+Code+Challenge+UI)
+![WeWantWaste UI Screenshot](https://github.com/Ambitious905837/WeWantWaste-challenge/blob/master/src/assets/Screenshot_173.png?text=WeWantWaste+Code+Challenge+UI)
 
 ## 🌟 Features
 
